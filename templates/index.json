@@ -21,17 +21,17 @@
             "text_alignment_mobile": "center"
           }
         },
-        "template--19657609609504__2f2a1b01-9419-481f-bf97-a762de56b972-1688255159ce7296eb-1": {
+        "999c3082-efbb-45ff-a25c-eb2d2ef35150": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/CS_Homepage-02.jpg",
-            "heading": "Image slide",
-            "heading_size": "h1",
-            "subheading": "Tell your brand's story through images",
-            "button_label": "Button label",
-            "link": "",
+            "image": "shopify:\/\/shop_images\/CS_Homepage-01.jpg",
+            "heading": "Chateau Sonoma Events",
+            "heading_size": "h0",
+            "subheading": "",
+            "button_label": "view our event calendar",
+            "link": "shopify:\/\/pages\/events",
             "button_style_secondary": false,
-            "box_align": "middle-center",
+            "box_align": "middle-left",
             "show_text_box": true,
             "text_alignment": "center",
             "image_overlay_opacity": 0,
@@ -39,48 +39,48 @@
             "text_alignment_mobile": "center"
           }
         },
-        "0e6fb985-6286-4ce5-a869-f4293b8e9065": {
+        "cafef680-768e-4350-9507-026627afeba9": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/CS_Homepage-03.jpg",
-            "heading": "Image slide",
-            "heading_size": "h1",
-            "subheading": "Tell your brand's story through images",
-            "button_label": "Button label",
-            "link": "",
+            "image": "shopify:\/\/shop_images\/CS_Homepage-01.jpg",
+            "heading": "Chateau Sonoma Events",
+            "heading_size": "h0",
+            "subheading": "",
+            "button_label": "view our event calendar",
+            "link": "shopify:\/\/pages\/events",
             "button_style_secondary": false,
-            "box_align": "middle-center",
+            "box_align": "middle-left",
             "show_text_box": true,
             "text_alignment": "center",
             "image_overlay_opacity": 0,
-            "color_scheme": "background-1",
+            "color_scheme": "",
             "text_alignment_mobile": "center"
           }
         },
-        "ef5bde56-8936-4ee0-9c21-5cbaffe34f42": {
+        "49889f94-3740-46be-ab39-a03c0c6dba8f": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/CS_Homepage-04.jpg",
-            "heading": "Image slide",
-            "heading_size": "h1",
-            "subheading": "Tell your brand's story through images",
-            "button_label": "Button label",
-            "link": "",
+            "image": "shopify:\/\/shop_images\/CS_Homepage-01.jpg",
+            "heading": "Chateau Sonoma Events",
+            "heading_size": "h0",
+            "subheading": "",
+            "button_label": "view our event calendar",
+            "link": "shopify:\/\/pages\/events",
             "button_style_secondary": false,
-            "box_align": "middle-center",
+            "box_align": "middle-left",
             "show_text_box": true,
             "text_alignment": "center",
             "image_overlay_opacity": 0,
-            "color_scheme": "background-1",
+            "color_scheme": "",
             "text_alignment_mobile": "center"
           }
         }
       },
       "block_order": [
         "template--19657609609504__2f2a1b01-9419-481f-bf97-a762de56b972-1688255159ce7296eb-0",
-        "template--19657609609504__2f2a1b01-9419-481f-bf97-a762de56b972-1688255159ce7296eb-1",
-        "0e6fb985-6286-4ce5-a869-f4293b8e9065",
-        "ef5bde56-8936-4ee0-9c21-5cbaffe34f42"
+        "999c3082-efbb-45ff-a25c-eb2d2ef35150",
+        "cafef680-768e-4350-9507-026627afeba9",
+        "49889f94-3740-46be-ab39-a03c0c6dba8f"
       ],
       "settings": {
         "layout": "full_bleed",
