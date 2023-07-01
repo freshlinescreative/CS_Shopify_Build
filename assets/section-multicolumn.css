@@ -65,8 +65,7 @@
 }
 
 .multicolumn.background-primary .multicolumn-card {
-  background: rgb(var(--color-background))
-    linear-gradient(rgba(var(--color-foreground), 0.04), rgba(var(--color-foreground), 0.04));
+  background: transparent;
 }
 
 .multicolumn-list h3 {
@@ -96,6 +95,26 @@
 .multicolumn-list__item.center .media--adapt img {
   left: 50%;
   transform: translateX(-50%);
+}
+
+#Slide-template--19657422209312__80317e4b-de7e-4075-a23b-f600e6c619dc-1, #Slide-template--19657422209312__80317e4b-de7e-4075-a23b-f600e6c619dc-3 {
+  padding: 6%;
+}
+.multicolumn-card__info {
+  max-width: 400px;
+  margin: auto;
+}
+.multicolumn-card__info h3 {
+  font-size: 3rem;
+}
+.multicolumn-card__info a {
+  font-family: 'Sweet Sans Pro';
+  font-weight: 400;
+  text-transform: uppercase;
+  font-size: 1.3rem!important;
+}
+.multicolumn-list.slider, .multicolumn-list.grid--4-col-desktop {
+  padding: 0px 7%!important;
 }
 
 @media screen and (max-width: 749px) {

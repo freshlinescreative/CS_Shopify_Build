@@ -1,0 +1,33 @@
+<div>
+    <div>
+       This will be an img
+    </div>
+    <div>
+        <h2>
+          {{ section.settings.location_address }}
+        </h2>
+    </div>
+</div>
+
+{% schema %}
+    {
+        "name": "Footer Location",
+        "settings": [
+            {
+                "type": "image_picker",
+                "id": "location_image",
+                "label": "Shop Location Image"
+            },
+            {  
+                "type": "text",
+                "id": "location_address",
+                "label": "Shop Address"
+            },
+            {
+                "type": "textarea",
+                "id": "shop_hours",
+                "label": "Shop Hours"
+            }
+        ]
+    }
+{% endschema %}

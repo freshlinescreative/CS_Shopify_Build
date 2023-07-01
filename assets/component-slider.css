@@ -279,10 +279,10 @@ slider-component.slider-component-full-width {
 }
 
 .slider-counter__link--dots .dot {
-  width: 1rem;
-  height: 1rem;
+  width: 2rem;
+  height: 2rem;
   border-radius: 50%;
-  border: 0.1rem solid rgba(var(--color-foreground), 0.5);
+  border: 2px solid #F3F1E5;
   padding: 0;
   display: block;
 }
@@ -329,7 +329,9 @@ slider-component.slider-component-full-width {
 .slider-buttons {
   display: flex;
   align-items: center;
-  justify-content: center;
+  justify-content: center;  
+  margin-top: -9.4rem;
+  padding-bottom: 4rem;
 }
 
 @media screen and (min-width: 990px) {
@@ -376,11 +378,11 @@ slider-component.slider-component-full-width {
 }
 
 .slider-button--next .icon {
-  transform: rotate(-90deg);
+  display: none;
 }
 
 .slider-button--prev .icon {
-  transform: rotate(90deg);
+  display: none;
 }
 
 .slider-button--next:not([disabled]):hover .icon {
