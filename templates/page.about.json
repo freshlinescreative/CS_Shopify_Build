@@ -42,10 +42,49 @@
         "stack_images_on_mobile": true,
         "show_text_below": true
       }
+    },
+    "17f3c620-e372-4829-97a2-312ef5e6be15": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19685269242144__17f3c620-e372-4829-97a2-312ef5e6be15-16882547919c369ccd-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "template--19685269242144__17f3c620-e372-4829-97a2-312ef5e6be15-16882547919c369ccd-0"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "37adf525-0147-4f6a-8e23-79ad5f444f92": {
+      "type": "video",
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "enable_video_looping": false,
+        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "description": "",
+        "full_width": false,
+        "color_scheme": "",
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
     }
   },
   "order": [
     "main",
-    "e003ebea-e43c-4c26-b487-f471f3c20553"
+    "e003ebea-e43c-4c26-b487-f471f3c20553",
+    "17f3c620-e372-4829-97a2-312ef5e6be15",
+    "37adf525-0147-4f6a-8e23-79ad5f444f92"
   ]
 }
