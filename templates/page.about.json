@@ -88,10 +88,11 @@
         "template--19685269242144__aca5863c-5d0f-4b89-ac73-55d6425ad082-1688254839d35ace69-0": {
           "type": "row",
           "settings": {
-            "caption": "Caption",
-            "heading": "Row",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "button_label": "Button label",
+            "image": "shopify:\/\/shop_images\/CS-Spring23-0514.jpg",
+            "caption": "Meet Sarah",
+            "heading": "",
+            "text": "<p>In 2001, I took my first trip to France and discovered the flea markets of Paris and then headed down to Southern France where I felt I had hit the motherload of French antiques dealers in L’isle Sur La Sorgue. After scouring the markets and putting together a container of treasures, there was time left to do some exploring. It was then that I fell in love with the French way of life, objet d’art, the people…and really, all things French! <br\/><br\/>On the long plane ride home, the drawing of the Chateau was outlined and the name “Chateau Sonoma” was coined. What began as a quest for a new way of life—a slice of French living in Wine Country—has evolved into a highly-edited home decor and accessory collection that celebrates the art of purposeful living and decorating.<\/p>",
+            "button_label": "",
             "button_link": ""
           }
         }
