@@ -14,14 +14,14 @@
         "template--19685269242144__e003ebea-e43c-4c26-b487-f471f3c20553-1688254716b670777c-0": {
           "type": "heading",
           "settings": {
-            "heading": "Image banner",
+            "heading": "Our Story",
             "heading_size": "h1"
           }
         },
         "template--19685269242144__e003ebea-e43c-4c26-b487-f471f3c20553-1688254716b670777c-1": {
           "type": "text",
           "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text": "About Chateau Sonoma",
             "text_style": "body"
           }
         }
@@ -31,6 +31,7 @@
         "template--19685269242144__e003ebea-e43c-4c26-b487-f471f3c20553-1688254716b670777c-1"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/CSHeros-05.jpg",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "desktop_content_position": "middle-left",
