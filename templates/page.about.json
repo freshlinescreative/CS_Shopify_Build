@@ -71,12 +71,12 @@
       "type": "video",
       "settings": {
         "heading": "",
-        "heading_size": "h1",
+        "heading_size": "h2",
         "enable_video_looping": false,
         "video_url": "https:\/\/youtu.be\/fyW1LZRtlQI",
         "cover_image": "shopify:\/\/shop_images\/videothumb.jpg",
         "description": "",
-        "full_width": false,
+        "full_width": true,
         "color_scheme": "",
         "padding_top": 100,
         "padding_bottom": 100
